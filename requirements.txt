@@ -4,7 +4,15 @@ channels_redis==4.3.0
 Django==5.2.6
 djangorestframework==3.16.1
 djangorestframework_simplejwt==5.5.1
+iniconfig==2.1.0
 msgpack==1.1.1
+packaging==25.0
+pluggy==1.6.0
+Pygments==2.19.2
 PyJWT==2.10.1
+pytest==8.4.2
+pytest-asyncio==1.2.0
+pytest-django==4.11.1
 redis==6.4.0
 sqlparse==0.5.3
+typing_extensions==4.15.0
